@@ -1,3 +1,2 @@
-###Estudos de JavaScript
-##Códigos executados estudando a linguagem
-
+# Estudos de JavaScript 
+## Códigos executados estudando a linguagem
